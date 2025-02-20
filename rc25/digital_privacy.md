@@ -35,7 +35,7 @@
 * [uBlock Origin](https://ublockorigin.com) - Privacy extension
 * [Privacy Badger](https://privacybadger.org) - Privacy extension
 * [Duck Duck Go](https://duckduckgo.com)
-* [Brave Browser](https://brave.com) 
+* Don't Use Chrome. ¯\_(ツ)_/¯ 
 
 -----
 
