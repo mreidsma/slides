@@ -1,201 +1,193 @@
 
-# <span class="raleway" style="font-size:1.3em;letter-spacing:.08em;margin-left:.15em;">Algorithms</span> <span class="blue" style="font-size: 1em; line-height:.7em;">&amp; Models</span>
+# <span class="raleway" style="font-size:1.3em;letter-spacing:.08em;margin-left:.15em;">Digital</span> <span class="blue" style="font-size: 1em; line-height:.7em;">Privacy</span>
 
 <p style="text-transform:uppercase;">Matthew Reidsma // <span class="blue">Grand Valley State University</span></p>
 
 -----
 
-### [gvsu.edu/library/bias](https://www.gvsu.edu/library/bias)
+### [mreidsma.github.io/slides/rc25](https://mreidsma.github.io/slides/rc25)
 
 -----
 
-<h1>Search Engines</h1> 
+<h1>Privacy vs. <span class="blue">Secrecy</span></h1>
 
 -----
 
-
-<h1><span class="blue">Trust</span></h1>
-
------
-
-<video controls="controls">
-    <source src="img/computersaysno.mp4" type="video/mp4" />
-</video>
+<h1>Convenience vs. <span class="blue">Privacy</span></h1>
 
 -----
 
-
-<h1>What is an <span class="blue">Algorithm?</span></h1>
-
-
------
-
-<!-- .slide: data-background-image="img/rudder_bg.jpg" -->
-
-### Algorithms don't work well with things that aren't numbers.
-
-#### Christian Rudder
-
-Christian Rudder // Photo: [Washington Post](https://www.washingtonpost.com/posttv/national/on-leadership/christian-rudder-on-romance-and-algorithms--on-leadership/2014/10/31/6514f4dc-6104-11e4-827b-2d813561bdfd_video.html)
-
-
------
-
-<!-- .slide: data-background-image="img/turkle.jpg" -->
-
-### If the computer needs rules in order to work, then areas of knowledge in which rules had previously been unimportant must formulate them or perish.
-
-#### Sherry Turkle
-
-Turkle, S. (1995). <em>Life on the Screen: Identity in the age of the Internet</em>. New York: Simon and Schuster. p. 107
-
------
-
-
-<!-- .slide: data-background-image="img/orphanides.jpg" -->
-
-### System design reflects the designer's values and the cultural context.
-
-#### Andreas Orphanides
-
-[Architecture is politics: The power and the perils of systems design](https://docs.google.com/presentation/d/180dMBG26xMYB9gfIotoUyCBQfO3XfmHiJGQjvn58GwY/edit?pref=2&pli=1#slide=id.gf03c9bb35_0_143) // Photo: [NC State Libraries](http://www.lib.ncsu.edu/staff/akorphan)
-
------
-
-![Professional Hair Styles vs Unprofessional Hair Styles](img/hairstyles.png)
-
-Google Search bias issues from 2016. 
+<h1>Cookies<br><span class="blue">fingerprinting</span>trackers</h1> 
 
 -----
 
 ### Experiment
 
 1. Open a Private Window
-2. Go to Google Image Search
-3. Search "Appalachian Photography"
+2. Go to Blacklight: [https://themarkup.org/blacklight](https://themarkup.org/blacklight)
+3. Search a website you visit often
+
+-----
+
+### Resources
+
+* [The Markup's Blacklight](https://themarkup.org/blacklight)
+* [uBlock Origin](https://ublockorigin.com) - Privacy extension
+* [Privacy Badger](https://privacybadger.org) - Privacy extension
+* [Duck Duck Go](https://duckduckgo.com)
+* [Brave Browser](https://brave.com) 
+
+-----
+
+<h1>Secure <span class="blue">Browsing</span></h1>
+
+-----
+
+<h1>SSL &amp; TLS</h1>
+
+<h2>HTTP<span class="blue">S</span></h2>
+
+-----
+
+<h1>Fun <span class="blue">Demonstration</span> Time</h1>
+
+-----
+
+![SSL Browser hints](img/ssl.png)
+
+-----
+
+<h1><span class="blue">PSA:</span> "Private" windows are not private.</h1>
+
+-----
+[]
+### Resources
+
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+* [ProtonMail](https://proton.me/) - Free encrypted webmail
+
+-----
+
+<h1>Password <span class="blue">Leaks</span></h1> 
+
+-----
+
+![COMB](img/comb.png)
+
+[Combination of Many Breaches](https://github.com/yuqian5/PasswordCollection?tab=readme-ov-file)
 
 -----
 
 ### Experiment
 
 1. Open a Private Window
-2. Go to Google Image Search
-3. Search "Blue Ridge Photography"
+2. Go to Have I Been Pwned: [https://haveibeenpwned.com](https://haveibeenpwned.com)
+3. Search Your Email
 
 -----
 
-![Slide by Scarlet Galvan at VALA: Glitches are the unintentional exposure of values](img/galvan.png)
+### Resources
 
-From [The Revolution Will Not Be Standardized](https://webcast.gigtv.com.au/Mediasite/Showcase/vala2018/Presentation/31066bb7c4bc483a8647dc496b4c68181d) by Scarlet Galvan.
-
-
------
-
-![Search results for a known item on LGBT youth returns 2 results: the item and a book on mental illness](img/lgbt_mental_illness.jpg)
-
-A known item search for a book on LGBT youth returns the item and a random book
-on mental illness. What made the algorithm suggest this item?
+* [ProtonPass](https://proton.me/pass) - Free Secure Password Manager
+* Use Unique Passwords, try password phrases (see Diceware zine)
+* Enable Multi-factor Authentication Where You Can
 
 -----
 
-<!-- .slide: data-background-image="img/ananny.jpg" -->
-
-### Reckless associations—made by humans or computers—can do very real harm especially when they appear in supposedly neutral environments.
-
-#### Mike Ananny
-
-[The Curious Connection Between Apps for Gay Men and Sex Offenders](https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/) // Photo: [mike.annany.com](http://mike.annany.com)
-
-
------
-
-
-![Screenshot of Primo suggesting that a search for New York Waste is really a search for New York Women](img/dyas.png)
-
-Primo suggests that "Waste" is just "Women," misspelled. From [Damn You, Auto Suggest](http://damnyouautosuggest.tumblr.com)
-
-
------
-
-![Screenshot of Primo search for Children's Literature](img/primo.png)
-
-Primo suggesting Children's Sex Literature as a replacement for Children's Literature. From [@Nadaleen](https://twitter.com/Nadaleen/status/730116596728012800)
-
------
-
-![Summon search results for Stress in the Workplace](img/stressworkforce.png)
-
-Summon results for the Stress in the Workplace
-
------
-
-![Summon search results for mental illness](img/mentalillness.png)
-
-Summon results for the Mental Illness
-
------
-
-![Summon search results for Birth of Feminism](img/birthoffeminism.png)
-
-Summon results for the Birth of Feminism
-
-
------
-
-![Screenshot of EDS search equating racism with scientific racism](img/scientificracism.png)
-
-Implying that racism is really "scientific"?
-
------
-
-![Screenshot of EDS search showing Clarence Thomas alongsid sexual harrassment topic](img/clarence.png)
-
-Illustrating a summary of sexual harrassment by showing an African American man in EDS.
-
+<h1>Personally-identifying information (<span class="blue">PII</span>)</h1>
 
 -----
 
 ### Experiment
 
-1. Visit Davenport University's Library
-2. Search for **"The Birth of Tragedy"**
-3. How many algorithmic results appear?
-4. Examine all the results.
+1. Open a Private Window
+2. Go to Google Search
+3. Search Your Name + "age"
+
+-----
+
+![Remove result](img/remove.png)
+
+-----
+
+### Resources
+
+* Removing PII from Google Results
+* Freeze Credit Accounts
+* Lock Credit or Debit Cards When Not In Use
+* Social Media Privacy Settings!
+
+-----
+
+![PII on the web](img/adoptee.png)
+
+-----
+
+<h1>It Can't Happen <span class="blue">Here</span></h1>
 
 -----
 
 ### Experiment
 
-1. Visit Davenport University's Library
-2. Search for **"Women in film"**
-3. Examine all the different algorithmic results
+1. Open a Private Window
+2. Go to Blacklight
+3. Search "gvsu.edu"
 
 -----
 
-### Experiment
+![Lanthorn article on campus facial recognition cameras](img/lanthorn.png)
 
-1. Visit GVSU's Library Search
-2. Search for **"women"**
-3. Examine all the different algorithmic results
+[https://lanthorn.com/77969/news/gvpd-completes-multi-million-dollar-security-camera-installation/](https://lanthorn.com/77969/news/gvpd-completes-multi-million-dollar-security-camera-installation/) - [GVSU Security Camera Policy](https://www.gvsu.edu/policies/policy.htm?policyId=5C867BBB-F2E4-327F-BF580D5FFC08EE50)
 
 -----
 
-### Experiment
+<h1>Learning  <span class="blue">Analytics</span></h1>
 
-1. Visit Georgia State's Library
-2. Click on "Concept Map"
-3. Select the "Map" view
-3. Search for **"Adolph Hitler"**
-4. Evaluate the results
 
 -----
 
-### Experiment
+![EAB Navigate materials on data analytics](img/eabnavigate.png)
 
-1. Visit Google
-2. Type **"Did hitler"** and examine the suggestions
-3. Select the first one
-4. Examine the AI generated result at the top.
+[EAB Navigate Marketing Materials](https://eab.com/solutions/navigate360/)
+
+-----
+
+[slate.org](https://slate.org)
+
+-----
+
+
+![Slate testamonial on data analytics](img/slate.png)
+
+[Slate Corporate](https://eab.com/solutions/navigate360/)
+
+
+-----
+
+<h3><a href="https://www.gvsu.edu/library/privacy" target="_blank">https://www.gvsu.edu/library/privacy</a></h3><
+
+-----
+
+![EBSCO Data Retention Screen](img/ebsco.png)
+
+-----
+
+### Access EBSCO's Privacy Info
+
+1. Log into Library Account: https://www.gvsu.edu/library/renew
+2. Select "My EBSCO" > Manage Your Account
+3. Select "Personal Data Retention and Usage"
+
+
+-----
+
+### Resources
+
+* [The Privacy paradox](https://www.wnycstudios.org/podcasts/notetoself/episodes/privacy-paradox-launch)
+* [The Electronic Frontier Foundation Privacy resources for students](https://ssd.eff.org/module/privacy-students )
+* [The Library Freedom Project](https://libraryfreedom.org/resources/)
+
+
 
 -----
 
