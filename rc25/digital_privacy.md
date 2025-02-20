@@ -13,7 +13,7 @@
 
 -----
 
-<h1>Convenience vs. <span class="blue">Privacy</span></h1>
+<h1>Convenience<br /><span class="blue">vs.</span></br />Privacy</h1>
 
 -----
 
@@ -67,6 +67,7 @@
 
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 * [ProtonMail](https://proton.me/) - Free encrypted webmail
+* Don't Use Chrome. ¯\\_(ツ)_/¯ 
 
 -----
 
@@ -193,9 +194,6 @@ Screenshot from Facebook, 2019.
 * [Surveillance Self-Defense](https://www.eff.org/pages/surveillance-self-defense)
 * [The Electronic Frontier Foundation Privacy resources for students](https://ssd.eff.org/module/privacy-students )
 * [The Library Freedom Project](https://libraryfreedom.org/resources/)
-
-
-
 
 -----
 
