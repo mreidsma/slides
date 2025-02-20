@@ -17,7 +17,7 @@
 
 -----
 
-<h1>Cookies<br><span class="blue">fingerprinting</span>trackers</h1> 
+<h1>Cookies<br /><span class="blue">fingerprinting</span><br />trackers</h1> 
 
 -----
 
@@ -57,10 +57,12 @@
 
 -----
 
-<h1><span class="blue">PSA:</span> "Private" windows are not private.</h1>
+<h1><span class="blue">PSA:</span></h1>
+
+### "Private" windows are not private.
 
 -----
-[]
+
 ### Resources
 
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere)
@@ -108,18 +110,22 @@
 
 ![Remove result](img/remove.png)
 
+Google's Remove Result image.
+
 -----
 
 ### Resources
 
-* Removing PII from Google Results
-* Freeze Credit Accounts
-* Lock Credit or Debit Cards When Not In Use
+* [Removing PII from Google Results](https://support.google.com/websearch/answer/12719076?hl=en)
+* [Freeze Credit Accounts](https://www.usa.gov/credit-freeze)
+* [Lock Credit or Debit Cards When Not In Use](https://www.nerdwallet.com/article/credit-cards/card-lock-how-to-use-it-strategically)
 * Social Media Privacy Settings!
 
 -----
 
 ![PII on the web](img/adoptee.png)
+
+Screenshot from Facebook, 2019.
 
 -----
 
@@ -130,7 +136,7 @@
 ### Experiment
 
 1. Open a Private Window
-2. Go to Blacklight
+2. Go to Blacklight: [https://themarkup.org/blacklight](https://themarkup.org/blacklight)
 3. Search "gvsu.edu"
 
 -----
@@ -152,7 +158,7 @@
 
 -----
 
-[slate.org](https://slate.org)
+### [slate.org](https://slate.org)
 
 -----
 
@@ -164,7 +170,7 @@
 
 -----
 
-<h3><a href="https://www.gvsu.edu/library/privacy" target="_blank">https://www.gvsu.edu/library/privacy</a></h3><
+<h3><a href="https://www.gvsu.edu/library/privacy" target="_blank">https://www.gvsu.edu/library/privacy</a></h3>
 
 -----
 
@@ -184,8 +190,10 @@
 ### Resources
 
 * [The Privacy paradox](https://www.wnycstudios.org/podcasts/notetoself/episodes/privacy-paradox-launch)
+* [Surveillance Self-Defense](https://www.eff.org/pages/surveillance-self-defense)
 * [The Electronic Frontier Foundation Privacy resources for students](https://ssd.eff.org/module/privacy-students )
 * [The Library Freedom Project](https://libraryfreedom.org/resources/)
+
 
 
 
