@@ -35,7 +35,7 @@
 * [uBlock Origin](https://ublockorigin.com) - Privacy extension
 * [Privacy Badger](https://privacybadger.org) - Privacy extension
 * [Duck Duck Go](https://duckduckgo.com)
-* Don't Use Chrome. ¯\\_(ツ)_/¯ 
+* Don't Use Chrome. 🤷‍♂️
 
 -----
 
@@ -100,7 +100,7 @@
 ### Resources
 
 * [ProtonPass](https://proton.me/pass) - Free Secure Password Manager
-* Use Unique Passwords, try password phrases (see Diceware zine)
+* Use Unique Passwords, [try password phrases](https://diceware.dmuth.org)
 * Enable Multi-factor Authentication Where You Can
 
 -----
@@ -189,7 +189,7 @@ Screenshot from Facebook, 2019.
 
 ### Access EBSCO's Privacy Info
 
-1. Log into Library Account: https://www.gvsu.edu/library/renew
+1. [Log into Library Account](https://www.gvsu.edu/library/renew)
 2. Select "My EBSCO" > Manage Your Account
 3. Select "Personal Data Retention and Usage"
 
