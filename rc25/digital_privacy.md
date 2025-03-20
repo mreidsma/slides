@@ -75,7 +75,7 @@
 
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 * [ProtonMail](https://proton.me/) - Free encrypted webmail
-* Don't Use Chrome. ¯\\_(ツ)_/¯ 
+* Don't Use Chrome. 🤷‍♂️
 
 -----
 
