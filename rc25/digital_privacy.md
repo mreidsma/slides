@@ -49,7 +49,7 @@
 
 -----
 
-<h1>Fun <span class="blue">Demonstration</span> Time</h1>
+<h1>Fun<br /><span class="blue">Demonstration</span><br/>Time</h1>
 
 -----
 
