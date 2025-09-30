@@ -154,7 +154,7 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 
 -----
 
-<img src="img/ebooks.png.jpg" al="Libraries like everything" style="width:75%;" />
+<img src="img/ebooks.png.jpg" al="Libraries like everything" style="width:10%;" />
 
 
 -----
@@ -255,7 +255,7 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 
 -----
 
-<img src="img/useful3.png" alt="Hemingway App" style="width:75%;" />
+<img src="img/useful3.png" alt="Hemingway App" style="width:50%;" />
 
 Comprehension Tests
 
