@@ -5,6 +5,10 @@
 
 -----
 
+<img src="img/yellsatcloud.jpg" al="Why I'm here" style="width:60%;" />
+
+-----
+
 <h1>Library <span class="blue">Website</span></h1>
 
 -----
