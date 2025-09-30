@@ -1,5 +1,5 @@
 
-# <span class="raleway" style="font-size:1.3em;letter-spacing:.08em;margin-left:.15em;">Make Great Content</span><br /><span class="blue" style="font-size: 1em; line-height:.7em;">For the Library Website</span>
+# <span class="raleway" style="font-size:1.3em;letter-spacing:.08em;margin-left:.15em;">Create and<br /> Maintain</span><br /><span class="blue" style="font-size: 1em; line-height:.7em;">Great Content</span>
 
 <p style="text-transform:uppercase;">Matthew Reidsma</p>
 
@@ -62,7 +62,7 @@
 
 #### Erin Kissane
 
-Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. p. 4.
+Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. p. 4.
 
 -----
 
@@ -77,7 +77,7 @@ Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. 
 
 #### Erin Kissane
 
-Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. p. 7.
+Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. p. 7.
 
 -----
 
@@ -91,18 +91,13 @@ Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. 
 -----
 
 
-<img src="img/useful3.png" al="LibGuides Stats" style="width:35%;" />
-
------
-
-
 <!-- .slide: data-background-image="img/kissane.jpg" -->
 
 ### Good Content is <em>User-Centered</em>
 
 #### Erin Kissane
 
-Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. p. 8.
+Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. p. 8.
 
 -----
 <img src="img/silos.png" al="Our Silos are Showing" style="width:75%;" />
@@ -117,7 +112,7 @@ Erin White, VCU Libraries.
 
 #### Erin Kissane
 
-Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. p. 9.
+Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. p. 9.
 
 -----
 
@@ -132,13 +127,13 @@ Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. 
 
 #### Erin Kissane
 
-Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. p. 10.
+Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. p. 10.
 
 -----
 
 <img src="img/consistent.png" al="Libraries like everything" style="width:75%;" />
 
-[Univeristy Libraries Style Guide](https://libguides.gvsu.edu/styleguide/namingconventions)
+[Univeristy Libraries Design System](https://libguides.gvsu.edu/content/wordlist)
 
 -----
 
@@ -148,7 +143,7 @@ Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. 
 
 #### Erin Kissane
 
-Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. p. 11.
+Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. p. 11.
 
 
 -----
@@ -159,6 +154,11 @@ Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. 
 
 -----
 
+<img src="img/ebooks.png.jpg" al="Libraries like everything" style="width:75%;" />
+
+
+-----
+
 
 <!-- .slide: data-background-image="img/kissane.jpg" -->
 
@@ -166,13 +166,98 @@ Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. 
 
 #### Erin Kissane
 
-Kissane, E. (2011). *The ELements of Content Strategy*. New York: A Book Apart. p. 12.
+Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. p. 12.
 
 -----
 
-<img src="img/styleguide.png" al="Good interface design is writing clearly" style="width:75%;" />
+<img src="img/planmanageassess.png" al="Good interface design is writing clearly" style="width:75%;" />
 
-[Univeristy Libraries Style Guide](https://libguides.gvsu.edu/styleguide/planmanageassess)
+[Univeristy Libraries Style Guide](https://libguides.gvsu.edu/guidingprinciples/planmanageassess)
+
+
+-----
+
+## Managing Content
+
+1. Is it still relevant?
+
+-----
+
+## Managing Content
+
+1. <span class="blue">Is it still relevant?</span>
+2. Is it still accurate?
+
+-----
+
+<img src="img/oops1.png" al="Libraries like everything" style="width:75%;" />
+
+
+-----
+
+<img src="img/oops2.png" al="Libraries like everything" style="width:75%;" />
+
+
+-----
+
+## Managing Content
+
+1. <span class="blue">Is it still relevant?</span>
+2. <span class="blue">Is it still accurate?</span>
+3. Do the links work?
+
+-----
+
+-----
+
+## Managing Content
+
+1. <span class="blue">Is it still relevant?</span>
+2. <span class="blue">Is it still accurate?</span>
+3. <span class="blue">Do the links work?</span>
+4. What is the goal? What does "success" look like?
+
+-----
+
+## Managing Content
+
+1. <span class="blue">Is it still relevant?</span>
+2. <span class="blue">Is it still accurate?</span>
+3. <span class="blue">Do the links work?</span>
+4. <span class="blue">What is the goal? What does "success" look like?</span>
+5. If not meeting goals, how to improve?
+
+-----
+
+<img src="img/silktide.png" alt="Hemingway App" style="width:75%;" />
+
+[Silktide](https://silktide.com)
+
+-----
+
+<img src="img/hemingwayapp.png" alt="Hemingway App" style="width:75%;" />
+
+[Hemingway App](https://hemingwayapp.com)
+
+
+-----
+
+<img src="img/readability-score.png" alt="Hemingway App" style="width:75%;" />
+
+[Readability Score](https://readability-score.com)
+
+-----
+
+<img src="img/assessment.png" al="Good interface design is writing clearly" style="width:75%;" />
+
+[Univeristy Libraries Style Guide](https://libguides.gvsu.edu/guidingprinciples/planmanageassess)
+
+
+-----
+
+<img src="img/useful3.png" alt="Hemingway App" style="width:75%;" />
+
+Comprehension Tests
 
 
 -----
