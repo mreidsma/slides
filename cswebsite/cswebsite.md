@@ -5,7 +5,7 @@
 
 -----
 
-<img src="img/yellsatcloud.jpg" al="Why I'm here" style="width:60%;" />
+<img src="img/yellsatcloud.jpg" al="Why I'm here" style="width:60%; padding-bottom: 12em;" />
 
 -----
 
@@ -104,7 +104,7 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. p. 8.
 
 -----
-<img src="img/silos.png" al="Our Silos are Showing" style="width:75%;" />
+<img src="img/silos.png" al="Our Silos are Showing" style="width:60%;" />
 
 Erin White, VCU Libraries.
 
@@ -211,6 +211,10 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 3. Do the links work?
 
 -----
+
+<img src="img/brokenlinks.png" alt="Broken Links in Silktide" style="width:75%;" />
+
+[Silktide](https://silktide.com)
 
 -----
 
