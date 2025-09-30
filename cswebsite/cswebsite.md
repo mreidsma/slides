@@ -5,7 +5,7 @@
 
 -----
 
-<img src="img/yellsatcloud.jpg" al="Why I'm here" style="width:60%; padding-bottom: 12em;" />
+<img src="img/yellsatcloud.jpg" alt="Why I'm here" style="width:60%; padding-bottom: 15em;" />
 
 -----
 
@@ -71,7 +71,7 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 -----
 
 
-<img src="img/appropriate.jpg" al="Good content helps users achieve their goals" style="width:60%;" />
+<img src="img/appropriate.jpg" alt="Good content helps users achieve their goals" style="width:60%;" />
 
 -----
 
@@ -85,12 +85,12 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 
 -----
 
-<img src="img/useful1.png" al="LibGuides Stats" style="width:75%;" />
+<img src="img/useful1.png" alt="LibGuides Stats" style="width:75%;" />
 
 
 -----
 
-<img src="img/useful2.png" al="LibGuides Stats" style="width:75%;" />
+<img src="img/useful2.png" alt="LibGuides Stats" style="width:75%;" />
 
 -----
 
@@ -104,7 +104,7 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. p. 8.
 
 -----
-<img src="img/silos.png" al="Our Silos are Showing" style="width:60%;" />
+<img src="img/silos.png" alt="Our Silos are Showing" style="width:60%;" />
 
 Erin White, VCU Libraries.
 
@@ -120,7 +120,7 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 
 -----
 
-<img src="img/writing.png" al="Good interface design is writing clearly" style="width:75%;" />
+<img src="img/writing.png" alt="Good interface design is writing clearly" style="width:75%;" />
 
 
 -----
@@ -152,13 +152,13 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 
 -----
 
-<img src="img/librarydesign.png" al="Libraries like everything" style="width:75%;" />
+<img src="img/librarydesign.png" alt="Libraries like everything" style="width:75%;" />
 
 [E. Bell](https://twitter.com/#!/ebellempire/status/172355190232592384)
 
 -----
 
-<img src="img/ebooks.png.jpg" al="Libraries like everything" style="width:14%;" />
+<img src="img/ebooks.png.jpg" alt="Libraries like everything" style="width:14%;" />
 
 
 -----
@@ -174,7 +174,7 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 
 -----
 
-<img src="img/planmanageassess.png" al="Good interface design is writing clearly" style="width:75%;" />
+<img src="img/planmanageassess.png" alt="Good interface design is writing clearly" style="width:75%;" />
 
 [Univeristy Libraries Style Guide](https://libguides.gvsu.edu/guidingprinciples/planmanageassess)
 
@@ -194,12 +194,12 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 
 -----
 
-<img src="img/oops1.png" al="Libraries like everything" style="width:75%;" />
+<img src="img/oops1.png" alt="Libraries like everything" style="width:75%;" />
 
 
 -----
 
-<img src="img/oops2.png" al="Libraries like everything" style="width:75%;" />
+<img src="img/oops2.png" alt="Libraries like everything" style="width:75%;" />
 
 
 -----
@@ -256,7 +256,7 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 
 -----
 
-<img src="img/assessment.png" al="Good interface design is writing clearly" style="width:75%;" />
+<img src="img/assessment.png" alt="Good interface design is writing clearly" style="width:75%;" />
 
 [Univeristy Libraries Style Guide](https://libguides.gvsu.edu/guidingprinciples/planmanageassess)
 
