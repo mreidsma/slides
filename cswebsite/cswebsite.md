@@ -262,8 +262,8 @@ Comprehension Tests
 
 -----
 
-* UL Style Guide: [https://gvsu.edu/library/styleguide](https://gvsu.edu/library/styleguide)
-* Content Strategy Checklist: [https://alistapart.com/article/a-checklist-for-content-work/](https://alistapart.com/article/a-checklist-for-content-work/)
+* [UL Style Guide](https://gvsu.edu/library/styleguide)
+* [Content Strategy Checklist](https://alistapart.com/article/a-checklist-for-content-work/)
 
 -----
 
