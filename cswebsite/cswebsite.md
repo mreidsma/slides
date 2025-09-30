@@ -1,5 +1,5 @@
 
-# <span class="raleway" style="font-size:1.3em;letter-spacing:.08em;margin-left:.15em;">Create and<br /> Maintain</span><br /><span class="blue" style="font-size: 1em; line-height:.7em;">Great Content</span>
+# <span class="blue" style="font-size: 1em; line-spacing: .3em;">Create &amp; Maintain</span><br /><span class="raleway" style="font-size:1.3em;letter-spacing:.08em;margin-left:.15em;">Web Content</span>
 
 <p style="text-transform:uppercase;">Matthew Reidsma</p>
 
@@ -261,6 +261,8 @@ Comprehension Tests
 
 
 -----
+
+## Resources
 
 * [UL Style Guide](https://gvsu.edu/library/styleguide)
 * [Content Strategy Checklist](https://alistapart.com/article/a-checklist-for-content-work/)
