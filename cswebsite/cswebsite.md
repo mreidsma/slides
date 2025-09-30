@@ -67,7 +67,7 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 -----
 
 
-<img src="img/appropriate.jpg" al="Good content helps users achieve their goals" style="width:75%;" />
+<img src="img/appropriate.jpg" al="Good content helps users achieve their goals" style="width:60%;" />
 
 -----
 
@@ -154,7 +154,7 @@ Kissane, E. (2011). *The Elements of Content Strategy*. New York: A Book Apart. 
 
 -----
 
-<img src="img/ebooks.png.jpg" al="Libraries like everything" style="width:10%;" />
+<img src="img/ebooks.png.jpg" al="Libraries like everything" style="width:14%;" />
 
 
 -----
