@@ -32,6 +32,7 @@
 ### Resources
 
 * [The Markup's Blacklight](https://themarkup.org/blacklight)
+* [Cover Your Tracks](https://firstpartysimulator.net/) - blocked by GVSU 🤷‍♂️
 * [uBlock Origin](https://ublockorigin.com) - Privacy extension
 * [Privacy Badger](https://privacybadger.org) - Privacy extension
 * [Duck Duck Go](https://duckduckgo.com)
