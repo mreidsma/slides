@@ -112,6 +112,11 @@
 
 -----
 
+<p style="font-size:1.3em; font-weight: bold;">Main Heading</p>
+<p style="font-size:1.2em; font-weight: bold;">Sub-Heading</p>
+<p style="font-size:1.1em; font-weight: bold;">Sub-Sub-Heading</p>
+<p style="font-size:1em; font-weight: bold;">Pretending to be a Heading</p>
+
 <pre><code>
 	&lt;h1&gt;Main Heading&lt;/h1&gt;
 	&lt;h2&gt;Sub-Heading&lt;/h1&gt;
