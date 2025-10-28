@@ -1,7 +1,7 @@
 
 # <span class="raleway" style="font-size:1.3em;letter-spacing:.08em;margin-left:.15em;">Accessibility</span><br /><span style="text-transform:uppercase;" class="blue">for the</span><br /> <span class="raleway">Website</span>
 
-<p style="text-transform:uppercase;">Matthew <span class="blue">Reidsma, July 10, 2024</span></p>
+<p style="text-transform:uppercase;">Matthew <span class="blue">Reidsma, October 28, 2025</span></p>
 
 -----
 
