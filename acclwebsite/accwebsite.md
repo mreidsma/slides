@@ -157,12 +157,12 @@
 
 -----
 
-<img src="img/alttext1.png" alt="Sample photo for alt text exercise" style="width: 65%;" />
+<img src="img/alttext1.png" alt="Sample photo for alt text exercise" style="width: 65%;padding: 10%;" />
 
 
 -----
 
-<img src="img/alttext2.png" alt="Sample photo for alt text exercise" style="width: 65%;" />
+<img src="img/alttext2.png" alt="Sample photo for alt text exercise" style="width: 65%;padding: 10%;" />
 
 
 -----
@@ -177,11 +177,11 @@
 
 -----
 
-<img src="img/alttext.png" alt="LibGuides Rich Text Editor and the Alt Text Field" style="width: 65%;" />
+<img src="img/alttext.png" alt="LibGuides Rich Text Editor and the Alt Text Field" style="width: 65%;padding: 10%;" />
 
 -----
 
-<img src="img/alttextcms.png" alt="CMS Editor and the Alt Text Field" style="width: 65%;" />
+<img src="img/alttextcms.png" alt="CMS Editor and the Alt Text Field" style="width: 65%;padding: 10%;" />
 
 -----
 
@@ -193,11 +193,11 @@
 
 -----
 
-<img src="img/media.png" alt="LibAnswers Media/Widget editor" style="width: 65%;" />
+<img src="img/media.png" alt="LibAnswers Media/Widget editor" style="width: 65%;padding: 10%;" />
 
 -----
 
-<img src="img/mediacms.png" alt="CMS Media/Widget editor" style="width: 60%;" />
+<img src="img/mediacms.png" alt="CMS Media/Widget editor" style="width: 60%;padding: 10%;" />
 
 -----
 
@@ -210,19 +210,19 @@
 
 -----
 
-<img src="img/headings.png" alt="LibAnswers Rich Text Editor allows you to choose the heading level" style="width: 60%;" />
+<img src="img/headings.png" alt="LibAnswers Rich Text Editor allows you to choose the heading level" style="width: 60%; padding: 10%;" />
 
 -----
 
-<img src="img/headingcms.png" alt="CMS Editor allows you to choose heading levels" style="width: 60%;" />
+<img src="img/headingcms.png" alt="CMS Editor allows you to choose heading levels" style="width: 60%;padding: 10%;" />
 
 -----
 
-<img src="img/lists.png" alt="LibAnswers Rich Text Editor allows you to choose lists" style="width: 60%;" />
+<img src="img/lists.png" alt="LibAnswers Rich Text Editor allows you to choose lists" style="width: 60%;padding: 10%;" />
 
 -----
 
-<img src="img/listscms.png" alt="CMS Rich Text Editor allows you to choose lists" style="width: 60%;" />
+<img src="img/listscms.png" alt="CMS Rich Text Editor allows you to choose lists" style="width: 60%;padding: 10%;" />
 
 -----
 
@@ -319,7 +319,7 @@
 
 <ol>
 	<li class="blue">WAVE WebAIM Plugin</li>
-	<li><a href="https://gvsu.edu/library" title="Live demo link">Silktide plugin</a></li>
+	<li>Silktide</li>
 </ol>
 
 [Silktide](https://silktide.com)
