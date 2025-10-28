@@ -91,51 +91,6 @@
 
 -----
 
-<h1>Click <span class="blue">Here</span></h1>
-
------
-
-<img src="img/links-windoweyes.jpg" alt="Screen reader showing list of links" style="width: 35%;"/>
-
------
-
-### Write links that clearly describe their purpose or content.
-
-#### 4 Syllables
-
-
-[Link purpose for web writers](https://4syllables.com.au/articles/accessibility-writers-links)
-
------
-
-<h1>A Word on <span class="blue">Headings</span></h1>
-
------
-<ul>
-<li style="font-size:1.3em; font-weight: bold;">Main Heading</li>
-<li style="font-size:1.2em; font-weight: bold;">Sub-Heading</li>
-<li style="font-size:1.1em; font-weight: bold;">Sub-Sub-Heading</li>
-<li style="font-size:1em; font-weight: bold;">Pretending to be a Heading</li>
-</ul>
-
-<pre><code>
-	&lt;h1&gt;Main Heading&lt;/h1&gt;
-	&lt;h2&gt;Sub-Heading&lt;/h1&gt;
-	&lt;h3&gt;Sub-Sub-Heading&lt;/h1&gt;
-	&lt;p&gt;&lt;strong&gt;Pretending to be a Heading&lt;/strong&gt;&lt;/p&gt;
-</code></pre>
-
-[Headings and labels - accessibility for web writers](https://4syllables.com.au/articles/accessibility-writers-labels)
-
------
-
-### HTML is a <em class="blue">Semantic Language</em>
-
------
-
-### Presentation vs. <span class="blue">Structure</span>
-
------
 
 <h1>Making Accessibile <span class="blue">Content</span></h1>
 
@@ -210,6 +165,32 @@
 
 -----
 
+### HTML is a <em class="blue">Semantic Language</em>
+
+-----
+
+### Presentation vs. <span class="blue">Structure</span>
+
+
+-----
+<ul>
+<li style="font-size:1.3em; font-weight: bold;">Main Heading</li>
+<li style="font-size:1.2em; font-weight: bold;">Sub-Heading</li>
+<li style="font-size:1.1em; font-weight: bold;">Sub-Sub-Heading</li>
+<li style="font-size:1em; font-weight: bold;">Pretending to be a Heading</li>
+</ul>
+
+<pre><code>
+	&lt;h1&gt;Main Heading&lt;/h1&gt;
+	&lt;h2&gt;Sub-Heading&lt;/h1&gt;
+	&lt;h3&gt;Sub-Sub-Heading&lt;/h1&gt;
+	&lt;p&gt;&lt;strong&gt;Pretending to be a Heading&lt;/strong&gt;&lt;/p&gt;
+</code></pre>
+
+[Headings and labels - accessibility for web writers](https://4syllables.com.au/articles/accessibility-writers-labels)
+
+-----
+
 <img src="img/headings.png" alt="LibAnswers Rich Text Editor allows you to choose the heading level" style="width: 60%; padding: 10%;" />
 
 -----
@@ -233,6 +214,15 @@
 	<li class="blue">Headings and Lists</li>
 	<li>Descriptive Link Text</li>
 </ol>
+
+
+-----
+
+<h1>Click <span class="blue">Here</span></h1>
+
+-----
+
+<img src="img/links-windoweyes.jpg" alt="Screen reader showing list of links" style="width: 35%;"/>
 
 -----
 
@@ -269,7 +259,7 @@
 
 <img src="img/voiceandtone.png" alt="GVSU UL Style Guide has Voice and Tone guidelines" />
 
-[GVSU UL Style Guide Voice and Tone]()
+[GVSU UL Style Guide Voice and Tone](https://libguides.gvsu.edu/content/voiceandtone)
 
 -----
 
