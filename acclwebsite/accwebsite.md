@@ -151,6 +151,26 @@
 
 -----
 
+<img src="img/alttext1.png" alt="Sample photo for alt text exercise" style="width: 65%;" />
+
+
+-----
+
+<img src="img/alttext2.png" alt="Sample photo for alt text exercise" style="width: 65%;" />
+
+
+-----
+
+<img src="img/alttext3.png" alt="Sample photo for alt text exercise" style="width: 65%;" />
+
+
+-----
+
+<img src="img/alttext4.png" alt="Sample photo for alt text exercise" style="width: 65%;" />
+
+
+-----
+
 <img src="img/alttext.png" alt="LibGuides Rich Text Editor and the Alt Text Field" style="width: 65%;" />
 
 -----
@@ -304,27 +324,11 @@
 
 -----
 
-<h1>Tools</h1>
-
-<ol>
-	<li class="blue">WAVE WebAIM Plugin</li>
-	<li class="blue">Silktide*</li>
-	<li>Grammarly</li>
-</ol>
-
-[Grammarly](https://www.grammarly.com/browser/chrome)
-
------
-
 <h1>Manual checks</h1>
 
 <ol>
-	<li>Alternative Text (Use Silktide!)</li>
+	<li>Alternative Text</li>
 </ol>
-
------
-
-<img src="img/silktideplugin.png" al="Silktide for Accessibility" />
 
 -----
 
@@ -338,7 +342,7 @@
 
 -----
 
-* [UL Style Guide:](https://gvsu.edu/library/styleguide)
+* [UL Design System:](https://gvsu.edu/library/design)
 * [4 Syllables Accessibility Articles](https://4syllables.com.au/articles/category/accessibility)
 * [GVSU Web Accessibility Site](https://www.gvsu.edu/accessibility/)
 
