@@ -172,7 +172,7 @@
 
 -----
 
-<img src="img/alttext4.png" alt="Sample photo for alt text exercise" style="width: 65%;" />
+<img src="img/alttext4.png" alt="Sample photo for alt text exercise" style="width: 65%; padding: 5%;" />
 
 
 -----
