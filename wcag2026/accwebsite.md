@@ -17,7 +17,7 @@
 
 -----
 
-<h1><abbr title="Americans with Disabilities Act">ADA</abbr> <span class="blue">Title <abbr title="two">II</abbr></span></h1>
+## <abbr title="Americans with Disabilities Act">ADA</abbr> Title <abbr title="two">II</abbr>
 
 <ul>
 	<li>Now Includes a <a href="https://www.w3.org/TR/WCAG21/" target="_blank">Technical Standard (WCAG 2.1 AA)</a></li>
@@ -27,18 +27,20 @@
 
 -----
 
-<h1>WCAG 2.1 <span class="blue">AA</span>?</h1>
+## WCAG 2.1 AA?
 
-<ul>
-	<li class="blue">A - Essential Baseline</li>
-	<li>AA - Worldwide Standard</li>
-	<li class="blue">AAA - Enhanced Accessibility</li>
-</ul>
+* <span class="blue">WCAG</span> - Web Content Accessibility Guidelines
+* <span class="blue">Version 2.1</span> - Adopted in 2019
+* Levels
+	* <span class="blue">A</span> - Essential Baseline
+	* <span class="blue">AA</span> - Worldwide Standard
+	* <span class="blue">AAA</span> - Enhanced Accessibility
+
 
 
 -----
 
-<h1 class="blue">UL Systems (12)</h1>
+## UL Systems (12)
 
 <ul>
 	<li><span class="blue">CMS</span> (Base Websites)</li>
