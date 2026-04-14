@@ -239,14 +239,15 @@ margin: 0 12%;}
  * LINKS
  *********************************************/
 .reveal a {
-  color: #42affa;
-  text-decoration: none;
+  color: #33ccff;
+
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
   transition: color .15s ease; }
 
 .reveal a:hover {
   color: #8dcffc;
+    text-decoration: none;
   text-shadow: none;
   border: none; }
 
