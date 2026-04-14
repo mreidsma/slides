@@ -73,7 +73,7 @@
 
 -----
 
-<h1>System Templates</h1>
+<h2 class="blue">System Templates</h2>
 
 <ul>
 	<li><span class="blue">Vendor</span> - Ship Accessible Code</li>
@@ -83,7 +83,7 @@
 
 -----
 
-<h1 class="blue">User-generated Content</h1>
+<h2 class="blue">User-generated Content</h2>
 
 <ul>
 	<li>Remediation (Silktide)</li>
@@ -92,7 +92,7 @@
 
 -----
 
-<h1 class="blue">Challenges</h1>
+<h2 class="blue">Challenges</h2>
 
 <ul>
 	<li>Digital Collections! (images, video, PDFs)</li>
@@ -102,7 +102,7 @@
 
 -----
 
-<h1 class="blue">What Can You Do?</h1>
+<h2 class="blue">What Can You Do?</h2>
 
 1. Text Alternatives
 2. Headings and Lists</li>
@@ -113,7 +113,7 @@
 
 -----
 
-<h1  class="blue">Test Your Content</h1>
+<h2 class="blue">Test Your Content</h2>
 
 * WAVE: https://wave.webaim.org
 * Readability: https://hemingwayapp.com/
@@ -123,7 +123,7 @@
 
 -----
 
-<h1>Need Help or Want to Learn More?</h1>
+<h2 class="blue">Need Help or Want to Learn More?</h2>
 
 <ul>
 	<li><a href="https://www.gvsu.edu/ftlc/module-events-view.htm?siteModuleId=8AF6CDC7-DB82-3230-C993D4B8944BAA79&eventId=E4363D1F-E3F8-63A2-FC741E003A2DC169">May 5: Fix Your Content Day (Pere Marquette)</a></li>
