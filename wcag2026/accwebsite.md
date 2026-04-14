@@ -86,44 +86,44 @@
 <h2 class="blue">User-generated Content</h2>
 
 <ul>
-	<li>Remediation (Silktide)</li>
+	<li>Remediation (<a href="https://app.us.silktide.com">Silktide</a>)</li>
 	<li>Trainings!</li>
 </ul>
 
 -----
 
-<h2 class="blue">Challenges</h2>
+<h2>Challenges</h2>
 
 <ul>
-	<li>Digital Collections! (images, video, PDFs)</li>
-	<li>ScholarWorks Content! (PDFs)</li>
-	<li>PDFs in some Databases</li>
+	<li><a href="https://digitalcollections.library.gvsu.edu">Digital Collections!</a> (images, video, PDFs)</li>
+	<li><a href="https://scholarworks.gvsu.edu">ScholarWorks Content!</a> (PDFs)</li>
+	<li><a href="https://www.gvsu.edu/library/databases">Select Research Databases</a> (Scanned PDFs)</li>
 </ul>
 
 -----
 
 <h2 class="blue">What Can You Do?</h2>
 
-1. Text Alternatives
-2. Headings and Lists</li>
-3. Descriptive Link Text</li>
-4. Readability</li>
-5. Don't Use Documents! (PDFs/Word)
+1. <a href="https://libguides.gvsu.edu/visualelements/images">Text Alternatives</a>
+2. <a href="https://libguides.gvsu.edu/content/writingforpeople">Headings and Lists</a>
+3. <a href="https://libguides.gvsu.edu/content/style#s-lg-content-78105124">Descriptive Link Text</a>
+4. <a href="https://libguides.gvsu.edu/content/writingforpeople#s-lg-content-78265131">Readability</a>
+5. <a href="https://libguides.gvsu.edu/guidingprinciples/accessibility">Don't Use Documents!</a> (PDFs/Word)
 6. Test Your Content!
 
 -----
 
-<h2 class="blue">Test Your Content</h2>
+<h2>Test Your Content</h2>
 
-* WAVE: https://wave.webaim.org
-* Readability: https://hemingwayapp.com/
-* Color Contrast: https://webaim.org/resources/contrastchecker/
-* No Mouse: https://nomouse.org/
-* Dyslexia Simulator: https://www.disabilitysimulator.com/
+* <a href="https://wave.webaim.org">WebAIM's WAVE</a>
+* <a href="https://hemingwayapp.com/">Readability</a>
+* <a href="https://webaim.org/resources/contrastchecker/">Color Contrast</a> 
+* <a href="https://nomouse.org/">No Mouse</a> 
+* <a href="https://www.disabilitysimulator.com/">Dyslexia Simulator</a>
 
 -----
 
-<h2 class="blue">Need Help or Want to Learn More?</h2>
+<h2>Need Help or Want to Learn More?</h2>
 
 <ul>
 	<li><a href="https://www.gvsu.edu/ftlc/module-events-view.htm?siteModuleId=8AF6CDC7-DB82-3230-C993D4B8944BAA79&eventId=E4363D1F-E3F8-63A2-FC741E003A2DC169">May 5: Fix Your Content Day (Pere Marquette)</a></li>
