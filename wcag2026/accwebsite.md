@@ -60,19 +60,11 @@
 
 -----
 
-<h3><span class="blue">Vendor Tools</span>: We are still responsible for only <em>licensing</em> software that meets WCAG 2.1 AA</h3>
-
------
-
-<h3><span class="blue">Linking to Outside Resources</span>: We are still responsible for only <em>linking</em> to content that meets WCAG 2.1 AA</h3>
-
------
-
 <h2 class="blue">System Templates</h2>
 
 <ul>
 	<li><span class="blue">Vendor</span> - Ship Accessible Code</li>
-	<li><span class="blue">Chelsea R</span> - Verifying VPATs</li>
+	<li><span class="blue">Chelsea R</span> - Verifying <abbr title="Voluntary Product Accessibility Template">VPAT</abbr>s</li>
 	<li><span class="blue">Me</span> - Modifications and Upgrades</li>
 </ul>
 
@@ -115,6 +107,14 @@
 * <a href="https://webaim.org/resources/contrastchecker/" target="_blank">Color Contrast</a>  - with WebAIM
 * <a href="https://nomouse.org/" target="_blank">No Mouse</a> - Keyboard Navigation Tips
 * <a href="https://www.disabilitysimulator.com/" target="_blank">Disability Simulator</a> - Dyslexia, color blindness, etc.
+
+-----
+
+<h3><span class="blue">Vendor Tools</span>: We are still responsible for only <em>licensing</em> software that meets WCAG 2.1 AA</h3>
+
+-----
+
+<h3><span class="blue">Linking to Outside Resources</span>: We are still responsible for only <em>linking</em> to content that meets WCAG 2.1 AA</h3>
 
 -----
 
