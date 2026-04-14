@@ -20,7 +20,7 @@
 <h1><abbr title="Americans with Disabilities Act">ADA</abbr> <span class="blue">Title <abbr title="two">II</abbr></span></h1>
 
 <ul>
-	<li>Now Includes a <a href="https://www.w3.org/TR/WCAG21/">Technical Standard (WCAG 2.1 AA)</a></li>
+	<li>Now Includes a <a href="https://www.w3.org/TR/WCAG21/" target="_blank">Technical Standard (WCAG 2.1 AA)</a></li>
 	<li><a href="https://www.ada.gov/resources/2024-03-08-web-rule/">Goes into effect April 24, 2026</a></li>
 </ul>
 
@@ -79,7 +79,7 @@
 <h2 class="blue">User-generated Content</h2>
 
 <ul>
-	<li>Remediation (<a href="https://app.us.silktide.com">Silktide</a>)</li>
+	<li>Remediation (<a href="https://app.us.silktide.com" target="_blank">Silktide</a>)</li>
 	<li>Trainings!</li>
 </ul>
 
@@ -97,22 +97,22 @@
 
 <h2 class="blue">What Can You Do?</h2>
 
-1. <a href="https://libguides.gvsu.edu/visualelements/images">Text Alternatives</a>
-2. <a href="https://libguides.gvsu.edu/content/writingforpeople">Headings and Lists</a>
-3. <a href="https://libguides.gvsu.edu/content/style#s-lg-content-78105124">Descriptive Link Text</a>
-4. <a href="https://libguides.gvsu.edu/content/writingforpeople#s-lg-content-78265131">Readability</a>
-5. <a href="https://libguides.gvsu.edu/guidingprinciples/accessibility">Don't Use Documents!</a> (PDFs/Word)
+1. <a href="https://libguides.gvsu.edu/visualelements/images" target="_blank">Text Alternatives</a>
+2. <a href="https://libguides.gvsu.edu/content/writingforpeople" target="_blank">Headings and Lists</a>
+3. <a href="https://libguides.gvsu.edu/content/style#s-lg-content-78105124" target="_blank">Descriptive Link Text</a>
+4. <a href="https://libguides.gvsu.edu/content/writingforpeople#s-lg-content-78265131" target="_blank">Readability</a>
+5. <a href="https://libguides.gvsu.edu/guidingprinciples/accessibility" target="_blank">Don't Use Documents!</a> (PDFs/Word)
 6. Test Your Content!
 
 -----
 
 <h2>Test Your Content</h2>
 
-* <a href="https://wave.webaim.org">WebAIM's WAVE</a>
-* <a href="https://hemingwayapp.com/">Readability</a>
-* <a href="https://webaim.org/resources/contrastchecker/">Color Contrast</a> 
-* <a href="https://nomouse.org/">No Mouse</a> 
-* <a href="https://www.disabilitysimulator.com/">Dyslexia Simulator</a>
+* <a href="https://wave.webaim.org" target="_blank">WebAIM's WAVE</a> - Accessibility Checker
+* <a href="https://hemingwayapp.com/" target="_blank">Readability</a> - with HemingwayApp
+* <a href="https://webaim.org/resources/contrastchecker/" target="_blank">Color Contrast</a>  - with WebAIM
+* <a href="https://nomouse.org/" target="_blank">No Mouse</a> - Keyboard Navigation Tips
+* <a href="https://www.disabilitysimulator.com/" target="_blank">Disability Simulator</a> - Dyslexia, color blindness, etc.
 
 -----
 
@@ -123,10 +123,11 @@
 <h2>Need Help or Want to Learn More?</h2>
 
 <ul>
-	<li><a href="https://www.gvsu.edu/ftlc/module-events-view.htm?siteModuleId=8AF6CDC7-DB82-3230-C993D4B8944BAA79&eventId=E4363D1F-E3F8-63A2-FC741E003A2DC169">May 5: Fix Your Content Day (Pere Marquette)</a></li>
+	<li>May 5: <a href="https://www.gvsu.edu/ftlc/module-events-view.htm?siteModuleId=8AF6CDC7-DB82-3230-C993D4B8944BAA79&eventId=E4363D1F-E3F8-63A2-FC741E003A2DC169">Fix Your Content Day (Pere Marquette)</a></li>
 	<li><a href="https://www.gvsu.edu/elearn/elearning-webinars-105.htm#Blackboard">eLearning Webinars</a></li>
 	<li><a href="https://www.libraryaccessibility.org">Library Accessibility Alliance</a></li>
-	<li><a href="https://gvsu.edu/wcag">GVSU Web Accessibility Website</a></li>
+	<li><a href="https://gvsu.edu/wcag" target="_blank"><abbr title="Grand Valley State University">GVSU</abbr> Web Accessibility Website</a></li>
+	<li><a href="https://gvsu.edu/library/designsystem" target="_blank"><abbr tiitle="University Libraries">UL</abbr> Design System</a></li>
 </ul>
 
 -----
