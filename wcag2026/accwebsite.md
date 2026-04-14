@@ -5,34 +5,23 @@
 
 -----
 
-<h1>What is <span class="blue">Accessibility</span>?</h1>
+<h1>What is <br /><span class="blue">Accessibility</span>?</h1>
 
 -----
 
 ### Accessibility means making your content usable to anyone regardless of their abilities.
 
-#### GVSU Accessibility Site
+#### GVSU Web Team Accessibility Site
 
-
------
-
-<h1>ADA <span class="blue">Title 2</span></h1>
+<p><a href="https://www.gvsu.edu/webteam/accessibility">https://www.gvsu.edu/webteam/accessibility</a>
 
 -----
 
-<h1>ADA <span class="blue">Title 2</span></h1>
+<h1><abbr title="Americans with Disabilities Act">ADA</abbr> <span class="blue">Title <abbr title="two">II</abbr></span></h1>
 
 <ul>
-	<li>Now Includes a Technical Standard (WCAG 2.1 AA)</li>
-</ul>
-
------
-
-<h1>ADA <span class="blue">Title 2</span></h1>
-
-<ul>
-	<li class="blue">Now Includes a Technical Standard (WCAG 2.1 AA)</li>
-	<li>Goes into effect April 24, 2026</li>
+	<li>Now Includes a <a href="https://www.w3.org/TR/WCAG21/">Technical Standard (WCAG 2.1 AA)</a></li>
+	<li><a href="https://www.ada.gov/resources/2024-03-08-web-rule/">Goes into effect April 24, 2026</a></li>
 </ul>
 
 
@@ -69,7 +58,11 @@
 
 -----
 
-<h3><span class="blue">Vendor Tools</span>: We are still responsible for only licensing software that meets WCAG 2.1 AA</h3>
+<h3><span class="blue">Vendor Tools</span>: We are still responsible for only <em>licensing</em> software that meets WCAG 2.1 AA</h3>
+
+-----
+
+<h3><span class="blue">Linking to Outside Resources</span>: We are still responsible for only <em>linking</em> to content that meets WCAG 2.1 AA</h3>
 
 -----
 
@@ -120,6 +113,10 @@
 * <a href="https://webaim.org/resources/contrastchecker/">Color Contrast</a> 
 * <a href="https://nomouse.org/">No Mouse</a> 
 * <a href="https://www.disabilitysimulator.com/">Dyslexia Simulator</a>
+
+-----
+
+<h3><span class="blue">Good Faith Effort to Improve</span> Over Perfection</h3>
 
 -----
 
